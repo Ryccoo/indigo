@@ -99,6 +99,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-paginate
 
 jekyll-mentions:
     base_url: https://github.com
